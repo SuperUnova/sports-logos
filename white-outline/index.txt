@@ -1,1 +1,0 @@
-Logos with a white outline added around them to be dark-mode friendly and avoid darker colors clashing with darker backgrounds.
